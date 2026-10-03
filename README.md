@@ -20,9 +20,8 @@ This tutorial outlines the process of assigning Authentication methods to user a
 <h2>Authentication Methods </h2>
 
 <p>
-<img width="953" height="377" alt="Screenshot 2026-06-20 222315" src="https://github.com/user-attachments/assets/edd55bdb-73c9-4eeb-b222-c32e0ade7d7b" />
 
-
+<img width="953" height="377" alt="Screenshot 2026-06-20 222305" src="https://github.com/user-attachments/assets/7ca5802f-c9bd-419a-a05f-dcd0b12351c5" />
 
 
 
@@ -33,7 +32,9 @@ Assigned phone number as Authentication method for user Alyssa Peters.
 <br />
 
 <p>
-<img width="953" height="376" alt="Screenshot 2026-06-20 222739" src="https://github.com/user-attachments/assets/1bdd85f6-6fdf-4be4-a094-eef264d19dca" />
+  
+<img width="953" height="376" alt="Screenshot 2026-06-20 222735" src="https://github.com/user-attachments/assets/01d6ed2d-da10-43fd-b3d0-61303df8ac6c" />
+
 
 
 
